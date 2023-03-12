@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/* Paleta de cores 
+    Laranja: rgb(255, 153, 0)
+    Laranja fraco: rgb(247, 159, 59)
+    Roxo: rgb(125, 4, 150)  
+    Lílas: rgb(151, 5, 180)
+*/
+
+body{
+    background-color: rgb(125, 4, 150) ;
+}
+
+main{
+    
+}
