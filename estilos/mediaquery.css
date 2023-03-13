@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
+    
     section#login{
        width: 90vw; 
     }
@@ -15,5 +16,23 @@
     section#login > div#formulario{
         float: right;
         width: 65%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+
+    section#login{
+        width: 930px;
+    }
+
+    section#login > div#imagem{
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    section#login > div#formulario{
+        float: right;
+        width: 50%;
     }
 }
