@@ -38,7 +38,7 @@ section#login{
 
     background-color: rgb(255, 255, 255);
     width: 260px;
-    height: 500px;
+    height: 515px;
     border-radius: 20px;
     overflow: hidden;
 
@@ -79,6 +79,17 @@ form > input[type='submit']{
     background-color: rgb(247, 159, 59);
     border: none;
     border-radius: 5px;
+}
+
+div#campo > label{
+    display: none;
+}
+
+form > div#campo{
+    background-color: rgb(125, 4, 150);
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0px;
 }
 
 form > input[type='submit']:hover{
