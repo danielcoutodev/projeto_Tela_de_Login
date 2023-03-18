@@ -51,7 +51,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background: url('../imagens/predio_laranja.jpg') no-repeat;
+    background: url('../imagens/predio_laranja_leve.jpg') no-repeat;
     height: 200px;
     background-size: cover;
 }
